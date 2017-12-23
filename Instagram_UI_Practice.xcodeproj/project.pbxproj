@@ -51,6 +51,7 @@
 		17013A5D1FE7F288008FB262 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		17013A691FE802BE008FB262 /* ShowTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShowTable.swift; sourceTree = "<group>"; };
 		17013A6B1FE80354008FB262 /* ShowCollection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShowCollection.swift; sourceTree = "<group>"; };
+		17416BCC1FEE5EFC0076AD6F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		17013A2F1FE7F287008FB262 = {
 			isa = PBXGroup;
 			children = (
+				17416BCC1FEE5EFC0076AD6F /* README.md */,
 				17013A3A1FE7F287008FB262 /* Instagram_UI_Practice */,
 				17013A4F1FE7F288008FB262 /* Instagram_UI_PracticeTests */,
 				17013A5A1FE7F288008FB262 /* Instagram_UI_PracticeUITests */,
@@ -513,6 +515,7 @@
 				17013A621FE7F288008FB262 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		17013A631FE7F288008FB262 /* Build configuration list for PBXNativeTarget "Instagram_UI_PracticeTests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +524,7 @@
 				17013A651FE7F288008FB262 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		17013A661FE7F288008FB262 /* Build configuration list for PBXNativeTarget "Instagram_UI_PracticeUITests" */ = {
 			isa = XCConfigurationList;
@@ -529,6 +533,7 @@
 				17013A681FE7F288008FB262 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
